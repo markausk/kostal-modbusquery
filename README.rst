@@ -10,13 +10,13 @@ This library provides a pure Python interface to access Kostal Inverters via the
 
 https://www.kostal-solar-electric.com/de-de/download/-/media/document-library-folder---kse/2018/08/30/08/53/ba_kostal_interface_modbus-tcp_sunspec.pdf
 
-It has been tested  with Python version 3.5, 3.6, 3.7 and 3.8.
+It has been tested with Python version 3.5, 3.6, 3.7 and 3.8.
 
 
 Features
 ~~~~~~~~
 
-* Provide Class that  reads documented  Registers
+* Provide Class that reads documented Registers
 * Provide some sample calculations mimic´ing the Inverter´s home page output
 
 
@@ -47,7 +47,7 @@ Disclaimer
 .. Warning::
 
    Please note that any incorrect or careless usage of this module as well as
-   errors in the implementation may harm your Inverter !
+   errors in the implementation may harm your Inverter!
 
    Therefore, the author does not provide any guarantee or warranty concerning
    to correctness, functionality or performance and does not accept any liability
