@@ -400,7 +400,7 @@ class kostal_modbusquery:
 
         except Exception as ex:
             print ("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-            print ("XXX- Hit the following error :From subroutine kostal_modbusquery:", ex)
+            print ("XXX- Hit the following error: From subroutine kostal_modbusquery:", ex)
             print ("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 
 
