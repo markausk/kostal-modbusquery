@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 #  kostal_modbusquery - Read only query of the Kostal Plenticore Inverters using TCP/IP modbus protocol
